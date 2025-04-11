@@ -1,0 +1,802 @@
+
+h2{
+    font-family: "montserrat", sans-serif !important;
+    font-weight: bold !important;
+    font-size: 2rem !important;
+     
+    
+}
+
+h1{
+    font-family: "montserrat", sans-serif !important;
+    font-weight: bold !important;
+    font-weight: weight !important;
+    font-size: 4rem;
+}
+
+p{
+    font-family: "montserrat", sans-serif !important;
+    line-height: 1.8 !important;
+    color: #c9d6f7;
+     
+}
+
+.navigation-bar-container .navbar{
+    background: linear-gradient(rgb(38, 26, 26), rgb(103, 62, 62));
+    
+}
+
+.navigation-bar-container .logo {
+
+    
+    font-family: "Lato", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 2.5rem;
+    color: rgb(200, 160, 85); 
+    margin-left: 10px;
+
+    
+}
+
+.navigation-bar-container .nav-link {
+    font-size: 1.2rem;
+    color: rgb(206, 192, 192);
+    transition: font-size 0.2s ; 
+}
+
+.nav-link:hover{
+    color: rgb(136, 165, 165) !important;
+    font-size: 1.1rem;
+    text-decoration: underline;
+}
+
+.hero-container {
+    background-image: url("../images/hero.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 80px 20px 20px 20px;
+    height: 80vh;
+    transition: padding 0.5s ease-in-out;
+  }
+
+
+  
+  .hero-container .hero-text h1 {
+
+    font-family: "montserrat", sans-serif;
+    font-weight: bold;
+    font-weight: weight;
+    font-size: 4rem;
+    color: rgb(247, 247, 247);
+    margin-bottom: 30px;
+  }
+
+  .hero-container .hero-text p{
+
+    font-family: "montserrat", sans-serif;
+    font-weight: bold;
+    font-weight: weight;
+    font-size: 1.5em;
+    color: rgb(225, 223, 223);
+
+  }
+
+
+.Ethiopia-description-container{
+    background: linear-gradient(#2c2a2d, rgb(35, 43, 35));
+    padding: 80px 20px 80px 20px;
+    color: white;
+
+}
+
+.ethiopia-description-feauters-container{
+    margin-top: 150px;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: space-around;
+    gap: 30px;
+    
+}
+
+.Ethiopia-description-container .feauters-of-ethiopia{
+
+    width: 350px;
+}
+
+
+
+.Ethiopia-description-container  .icon {
+    font-size: 80px;
+    margin-bottom: 30px;
+    color: royalblue;
+}
+
+.Ethiopia-description-container  .icon:hover {
+    color: rgb(200, 160, 85);
+    transition: all 0.3s ease-in-out;
+}
+
+.popular-destination-container{
+
+    padding: 150px 20px 150px 20px;
+    background: linear-gradient(#2c2a2d, rgb(35, 43, 35));
+    height: 180vh;
+    color: white;
+
+}
+
+
+
+.popular-destination-container .topic h1{
+    margin-bottom: 20px;
+    font-family: "montserrat", sans-serif !important;
+    font-size: 3rem !important;
+}
+
+.popular-destination-container .topic p{
+
+    width: 700px;
+}
+
+
+.popular-destination-container .carousel-div{
+
+    text-align: center;
+    margin-top: 80px;
+}
+
+
+.popular-destination-container img {
+    width: 1050px;
+    border-radius: 10px;
+}
+
+.carousel-div button {
+    margin-left: 30px !important;
+    margin-right: 30px !important;
+   
+}
+
+.popular-destination-container .carousel-div h4{
+    margin-top: 20px;
+
+}
+
+
+.unique-feauture-container{
+    background: linear-gradient(#2c2a2d, rgb(35, 43, 35));
+    padding: 80px 20px 80px 20px;
+    color: white;
+}
+
+.unique-feauture-container .unique-items{
+    display: grid;
+    text-align: center;
+    justify-content: center;
+}
+
+.unique-feauture-container .unique-items i{
+    
+    font-size: 10rem;
+    color: sienna;
+    margin-top: 30px !important;
+}
+
+.unique-feauture-container .unique-items h1{
+    
+    
+}
+.unique-feauture-container .unique-items p{
+
+    margin: auto 20px auto 20px;
+    color: rgb(15, 166, 158);
+    font-size: 1.1rem !important;
+}
+.unique-items .salary-img{
+    width: 200px !important;
+}
+
+.unique-feauture-container .unique-items img {
+    width: 900px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+
+.company-logos{
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.company-logos img{
+    width: 200px !important;
+    
+    
+}
+
+.company-logos .logo-img1{
+
+    width: 80px !important;
+    margin-bottom: 100px !important;
+    margin-top: 80px !important;
+
+}
+
+.unique-item-img{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: center;
+    gap: 100px;
+
+}
+
+.unique-feauture-container .unique-items{
+
+    margin: 50px auto 50px auto !important;
+}
+
+
+/* endemic animal section */
+
+.endomic-animals-container{
+    background: linear-gradient(#2c2a2d, rgb(35, 43, 35));
+    padding: 80px 20px 0px 20px;
+    color: white;
+}
+
+.endomic-animals-container .topic{
+    margin-bottom: 100px;
+}
+
+
+.endomic-animals-container img{
+    width: 430px;
+    border-radius: 40px;
+    box-shadow: 5px 5px 10px #046f1233;
+    margin: auto;
+    padding :20px;
+    float: left;
+
+
+}
+
+
+
+.animal-img-with-description{
+
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    padding-bottom: 40px;
+    margin: 70px auto;
+    text-align: left;
+    text-align: justify;
+    align-items: flex-start
+
+    
+}
+
+.endomic-animals-container hr {
+    border-style: none;
+    border-top-style : dotted;
+    border-color: grey;   
+    width: 8%;
+    border-width: 6px;
+    margin: auto
+}
+
+.animal-img-with-description h3{
+    
+    padding-bottom: 20px;
+    color: rgb(204, 174, 203) !important;
+
+}
+
+.youtube-demo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.youtube-animal{
+    border-radius: 10px;
+    margin-top: 40px;
+    margin-bottom: 60px;
+    width: 800px;
+    height:400px;
+}
+
+.Map-container{
+
+    background: linear-gradient(rgb(35, 43, 35), #2c2a2d);
+    padding: 0px 20px 80px 20px;
+    color: white;
+    
+    height: 120vh;
+}
+
+.Map-container .Map-discription{
+
+    display: flex;
+    text-align: center;
+    padding: 40px;
+}
+
+.Map-container .google-map{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 50px auto;
+}
+.google-map iframe{
+    width: 90%;
+    height: 450px;
+    transition: filter 0.7s ease-in-out;
+     
+}
+
+
+/* this is for the dark mode mode*/
+
+
+.dark-mode iframe {
+    filter: invert(100%);
+    transition: filter 0.7s ease-in-out;
+}
+
+
+ hr {
+    border-style: none;
+    border-top-style : dotted;
+    border-color: grey;   
+    width: 10%;
+    border-width: 6px;
+    margin: auto
+ }
+
+ .google-map iframe{
+    border-radius: 10px;
+    
+ }
+
+ .Map-container button {
+
+    background-color: #7085bc !important;
+    color: black !important;
+    font-weight:500;
+    
+ }
+ .Map-container .dark-mode-button{
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    align-items: end;
+    margin-right: 80px;
+    margin-bottom: 80px;
+
+
+ }
+
+/* this is for the pricing section */
+
+.pricing-container{
+    background: linear-gradient(rgb(32, 37, 32), #2c2a2d);
+    padding: 20px;
+    color: #fff ;
+    height: 110vh;
+
+
+}
+
+.pricing-topic{
+    padding: 50px 40px 10px 40px;
+}
+.pricing-topic h2{
+    font-size: 2.5rem !important;
+}
+
+.pricing-container .pricing-list{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 20px;
+    margin-top: 80px;
+    justify-content: center;
+    gap: 40px;
+
+}
+
+.pricing-container .pricing-list .pricingbox{
+    border: solid rgb(152, 156, 156) 5px;
+    border-radius: 20px;
+    width: 350px;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    background-color: darkslategrey;
+}
+
+.pricing-list ul{
+    text-align: left;
+     
+}
+
+.pricing-list .pricing-item-header{
+    margin-bottom: 20px;
+}
+
+.pricing-container .pricing-list .pricingbox .pricing-1{
+    text-align: left;
+
+} 
+
+/* the contact us section */
+
+.contact-us-container{
+
+    background: linear-gradient(rgb(32, 37, 32), #2c2a2d);
+    padding: 50px 30px;
+    color: #272222 !important;
+    background-image: url("../images/contact-background-img.avif");
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+.contact-us-container .contact-us-form form input , form textarea {
+
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #f7f7f7;
+    color: #333;
+
+}
+
+.contact-us-container .contact-us-form form input:focus , form textarea:focus{
+    outline: none;
+    box-shadow: 0 0 5px #333;
+
+}
+
+.contact-us-container .contact-us-form form button {
+
+    display: block;
+    width: 80%;
+    padding: 10px;
+    margin-top: 15px;
+    border: none;
+    border-radius: 5px;
+    background-color: #5e2323;
+    color: #fff;
+    cursor: pointer;
+    transition: 0.3s ease;
+
+}
+
+.contact-us-container .contact-us-form-container{
+    display: flex;
+    padding: 20px;
+}
+
+.contact-us-container .contact-us-form {
+
+    width: 400px;
+    border: solid rgb(76, 74, 74) 5px;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.contact-us-container p{
+    color: #2c2a2d !important;
+    font-weight: 600;
+}
+
+.contact-us-container h1{
+    font-size: 2.8rem !important;
+}
+
+
+/* footer section */
+
+.footer-container{
+    background-color: #231f1f;
+    padding: 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+    height: 50vh;
+
+}
+
+.footer-container .social-media img{
+
+    width: 60px;
+}
+
+.footer-container .social-media-icons {
+
+    display: flex;
+    flex-direction: row;
+    gap: 25px;
+}
+
+
+.footer-container .useful-links-container{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.footer-container .contact-us h2{
+
+    color: white;
+    font-size: 1.5rem !important;
+    
+}
+
+.footer-container .contact-us h3{
+    color: #ffffff;
+    font-size: 1.1rem !important;
+
+}
+.footer-container .contact-us p{
+    font-size: 0.9rem;
+    line-height: 4px !important;
+    margin-top: 30px !important;
+}
+
+.footer-container .copyRight-container{
+    display: block;
+    
+}
+
+.copyRight-container{
+
+    background-color: #231f1f;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.copyRight-container p {
+    font-size: 0.7rem;
+    margin-bottom: 0px;
+}
+
+
+
+
+
+
+
+
+@media screen and (max-width: 768px) {
+    
+    h1{
+        font-size: 2.2rem !important;
+    }
+
+    h2{
+
+        font-size: 1.3rem !important;
+         
+
+    }
+
+    h3{
+        font-size: 1rem !important;
+    }
+    .hero-container {
+      height: 50vh;
+      padding: 30px 20px 20px 20px;
+    }
+
+    .hero-container .hero-text h1{
+        
+        margin-bottom: 20px;
+
+    }
+
+    .ethiopia-description-feauters-container{
+        margin-top: 100px;
+        display: grid;
+        flex-direction: column;
+        text-align: center;
+        justify-content: center;
+        
+
+    }
+
+    .Ethiopia-description-container  .icon {
+        font-size: 70px;
+        margin-bottom: 30px;
+        margin-top: 40px;
+    }
+
+    .popular-destination-container h1{
+        font-size: 1rem !important;
+         
+    }
+
+    .popular-destination-container{
+
+        padding: 150px 20px 150px 20px;
+        background: linear-gradient(#2c2a2d, rgb(35, 43, 35));
+        height: 130vh;
+        color: white;
+    
+    }
+    
+    .popular-destination-container img {
+        width: 500px;
+        border-radius: 10px;
+
+    }
+
+    .popular-destination-container .topic p{
+
+        width: 400px;
+    }
+
+    .carousel-div button {
+        margin-left: 0px !important;
+        margin-right: 0px !important;
+        
+    }
+
+    .unique-feauture-container .unique-items img {
+        width: 450px;
+        border-radius: 20px;
+    }
+
+    .company-logos{
+        display: flex;
+        flex-direction: row;
+        gap: 30px;
+        text-align: center;
+        justify-content: center;
+    
+    }
+    
+    .company-logos img{
+        width: 130px !important;
+        
+        
+    }
+    
+    .company-logos .logo-img1{
+    
+        width: 130px !important;
+    
+    }
+
+    .unique-item-img{
+        display: flex;
+        flex-direction: row;
+        text-align: center;
+        justify-content: center;
+        gap: 30px;
+
+    }
+
+    .animal-img-with-description {
+        display: flex;
+        flex-direction: column-reverse;
+
+    }
+
+    .animal-img-with-description h3{
+        text-align: center;
+        padding-bottom: 20px;
+    }
+
+    .right{
+        display: flex;
+        flex-direction: column;
+    }
+
+
+
+    .animal-img-with-description img {
+        width: 450px; 
+        align-items: center;
+        justify-content: center;
+        
+        
+    }
+
+    .youtube-animal{
+        border-radius: 10px;
+        margin-top: 40px;
+        margin-bottom: 60px;
+        width: 450px;
+        height: 360px;
+    }
+
+    .Map-container{
+        height: 90vh
+    
+    }
+    
+    .google-map h3{
+
+        font-size: 1rem !important;
+
+
+
+
+    }
+    .google-map iframe{
+        width: 100%;
+        height: 250px;
+         
+    }
+
+    .Map-container .dark-mode-button{
+        display: flex;
+        flex-direction: column;
+        margin-top: 50px;
+        margin-right: 40px;
+        align-items: center;
+         
+    
+    
+     }
+
+     .pricing-container{
+        height: 200vh;
+     }
+     .pricing-container .pricing-list{
+        display: flex;
+        flex-direction: column;
+
+     }
+
+     .footer-container .social-media img{
+
+        width: 30px;
+    }
+    
+    .footer-container .social-media-icons {
+    
+        display: flex;
+        flex-direction: column;
+        gap: 25px;
+    }
+
+    .footer-container .contact-us h2{
+
+        color: white;
+        font-size: 1.1rem !important;
+        
+    }
+    
+    .footer-container .contact-us h3{
+        color: #ffffff;
+        font-size: 0.8rem !important;
+    
+    }
+    .footer-container .contact-us p{
+        font-size: 0.8rem;
+        line-height: 4px !important;
+        margin-top: 30px !important;
+    }
+    
+    
+
+  
+    
+
+}
